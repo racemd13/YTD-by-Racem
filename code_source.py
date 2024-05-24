@@ -1,10 +1,9 @@
 from tkinter import ttk
 from tkinter import Menu
-from PIL import Image
 import customtkinter as ctk
 from pytube import YouTube
 import threading
-import pyperclip # type: ignore
+import pyperclip
 
 
 def pop_menu(event):
